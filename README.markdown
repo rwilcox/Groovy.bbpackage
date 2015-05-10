@@ -10,7 +10,7 @@ There's not really much here, so I welcome improvements.
 $ cd Library/Application\ Support/BBEdit/
 $ mkdir Packages # if it doesn't already exists
 $ cd Packages
-$ git clone https://github.com/rwilcox/Source.bbpackage.git
+$ git clone https://github.com/rwilcox/Groovy.bbpackage.git
 ```
 
 And restart BBEdit.
